@@ -62,8 +62,8 @@ void printMenu(){
 }
 
 //Made by Evil Hilda#7121, special thanks to That's evil.#2992
-//So I lost v0.02.2 in a Win10 update oof, so i rushed V0.03.0
-//V0.03.0: Cleaner interface, Less cringy memes
+//So I lost v0.02.2 in a Win10 update oof, so i rushed v0.03.0
+//v0.03.0: Cleaner interface, Less cringy memes
 //Sugar not included, you gotta add your own sugar lmao
 //This machine uses full cream milk
 //approx. 250ml per cup of coffee, so bring a large mug/cup/glass/whatchamacallit hollow cylinder
